@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.for循环", "5.for循环\5.for循环.csproj", "{DB020BCC-0C83-45DE-8266-9966F97BC759}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.hello", "1.hello\1.hello.csproj", "{03E19C7F-06DC-43D1-A449-BEBDA90EC1D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.变量与类型", "2.变量与类型\2.变量与类型.csproj", "{972AC843-1B86-4C81-AFCF-A76EBC2C1FF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.变量类型转换", "3.变量类型转换\3.变量类型转换.csproj", "{F752E3A1-057A-4A41-8B54-0BB5C783C7A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.while循环", "4.while语句\4.while循环.csproj", "{5F405269-592C-420D-94AE-6AEFD322AB58}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.switch语句", "6.switch语句\6.switch语句.csproj", "{07CC0946-A839-4A2A-89D3-23F860F5833A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.函数", "7.函数\7.函数.csproj", "{CD40726A-64FB-4E9B-BA74-4EAABB839B49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB020BCC-0C83-45DE-8266-9966F97BC759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB020BCC-0C83-45DE-8266-9966F97BC759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB020BCC-0C83-45DE-8266-9966F97BC759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB020BCC-0C83-45DE-8266-9966F97BC759}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03E19C7F-06DC-43D1-A449-BEBDA90EC1D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03E19C7F-06DC-43D1-A449-BEBDA90EC1D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03E19C7F-06DC-43D1-A449-BEBDA90EC1D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03E19C7F-06DC-43D1-A449-BEBDA90EC1D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972AC843-1B86-4C81-AFCF-A76EBC2C1FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972AC843-1B86-4C81-AFCF-A76EBC2C1FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972AC843-1B86-4C81-AFCF-A76EBC2C1FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972AC843-1B86-4C81-AFCF-A76EBC2C1FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F752E3A1-057A-4A41-8B54-0BB5C783C7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F752E3A1-057A-4A41-8B54-0BB5C783C7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F752E3A1-057A-4A41-8B54-0BB5C783C7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F752E3A1-057A-4A41-8B54-0BB5C783C7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F405269-592C-420D-94AE-6AEFD322AB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F405269-592C-420D-94AE-6AEFD322AB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F405269-592C-420D-94AE-6AEFD322AB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F405269-592C-420D-94AE-6AEFD322AB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07CC0946-A839-4A2A-89D3-23F860F5833A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07CC0946-A839-4A2A-89D3-23F860F5833A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07CC0946-A839-4A2A-89D3-23F860F5833A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07CC0946-A839-4A2A-89D3-23F860F5833A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD40726A-64FB-4E9B-BA74-4EAABB839B49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD40726A-64FB-4E9B-BA74-4EAABB839B49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD40726A-64FB-4E9B-BA74-4EAABB839B49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD40726A-64FB-4E9B-BA74-4EAABB839B49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F84B294-16EC-49A0-BEC7-D16B1ABC5B32}
+	EndGlobalSection
+EndGlobal
