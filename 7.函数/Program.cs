@@ -1,6 +1,6 @@
 ﻿namespace _7.函数
 {
-    internal class FUN
+    internal class Program
     {
         static void Main(string[] args)
         {
