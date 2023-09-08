@@ -25,7 +25,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.二维数组", "10.二�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.类和对象", "11.类和对象\11.类和对象.csproj", "{755093A0-EB50-4D76-B68B-AC9C5D8F06A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.构造方法，对象方法", "12.构造方法，对象方法\12.构造方法，对象方法.csproj", "{9EF2BC6F-6B4E-4684-BB9F-3E8C2149A331}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.构造方法，对象方法", "12.构造方法，对象方法\12.构造方法，对象方法.csproj", "{9EF2BC6F-6B4E-4684-BB9F-3E8C2149A331}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.引用类型和值类型", "13.引用类型和值类型\13.引用类型和值类型.csproj", "{E664218B-1EDF-4BA6-BF36-7CCE03F74F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.静态和属性", "14.静态和属性\14.静态和属性.csproj", "{5F10F39E-BEAE-4660-8CDA-EF1C98E1C9B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +85,14 @@ Global
 		{9EF2BC6F-6B4E-4684-BB9F-3E8C2149A331}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EF2BC6F-6B4E-4684-BB9F-3E8C2149A331}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EF2BC6F-6B4E-4684-BB9F-3E8C2149A331}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E664218B-1EDF-4BA6-BF36-7CCE03F74F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E664218B-1EDF-4BA6-BF36-7CCE03F74F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E664218B-1EDF-4BA6-BF36-7CCE03F74F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E664218B-1EDF-4BA6-BF36-7CCE03F74F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F10F39E-BEAE-4660-8CDA-EF1C98E1C9B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F10F39E-BEAE-4660-8CDA-EF1C98E1C9B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F10F39E-BEAE-4660-8CDA-EF1C98E1C9B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F10F39E-BEAE-4660-8CDA-EF1C98E1C9B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
