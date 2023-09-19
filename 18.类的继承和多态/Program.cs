@@ -102,6 +102,9 @@
             {
                 orders[i].Print();
             }
+
+            bool x = 5 > 3 ? true : false;
+            Console.WriteLine(x);
         }
     }
 }

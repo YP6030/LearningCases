@@ -21,7 +21,7 @@
         //}
 
         static Random random = new Random();
-        class Cha
+        public class Cha
         {
             static public int count;
             //字段

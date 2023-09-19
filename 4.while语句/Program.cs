@@ -9,6 +9,11 @@
             {
                 Console.WriteLine(i++);
             }
+            Console.WriteLine("------------------------------");
+            do
+            {
+                Console.WriteLine(i++);
+            } while(i < 10);
         }
     }
 }
