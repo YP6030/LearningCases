@@ -37,7 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.字典", "16.字典\16.�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.类的组合", "17.类的组合\17.类的组合.csproj", "{F23BD35F-FE7B-4A39-A0DB-268BD276162A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.类的继承和多态", "18.类的继承和多态\18.类的继承和多态.csproj", "{BB0E1642-DF29-4A33-AD16-C6BC3EFA2912}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18.类的继承和多态", "18.类的继承和多态\18.类的继承和多态.csproj", "{BB0E1642-DF29-4A33-AD16-C6BC3EFA2912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.Path类", "19.Path类\19.Path类.csproj", "{3A3082E0-5AF8-4122-83D6-0E3F1766C518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.File类", "20.File类\20.File类.csproj", "{2EBB4D07-BB61-4784-8369-F495AAF8B587}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +121,14 @@ Global
 		{BB0E1642-DF29-4A33-AD16-C6BC3EFA2912}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB0E1642-DF29-4A33-AD16-C6BC3EFA2912}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB0E1642-DF29-4A33-AD16-C6BC3EFA2912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3082E0-5AF8-4122-83D6-0E3F1766C518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3082E0-5AF8-4122-83D6-0E3F1766C518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3082E0-5AF8-4122-83D6-0E3F1766C518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3082E0-5AF8-4122-83D6-0E3F1766C518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBB4D07-BB61-4784-8369-F495AAF8B587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBB4D07-BB61-4784-8369-F495AAF8B587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBB4D07-BB61-4784-8369-F495AAF8B587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBB4D07-BB61-4784-8369-F495AAF8B587}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
